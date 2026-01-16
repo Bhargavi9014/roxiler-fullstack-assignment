@@ -140,15 +140,6 @@ Password: Owner@123
 
 ---
 
-## Screenshots (Recommended for Submission)
-
-- Login page
-- Admin dashboard
-- User store listing & rating page
-- Store owner dashboard
-
----
-
 ## Setup Instructions
 
 ### Backend
